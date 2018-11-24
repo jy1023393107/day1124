@@ -9,10 +9,12 @@ public class beijing {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //hello test
     }
 
     public void test() {
         int i = 10;
         i += 15;
+        System.out.println(i);
     }
 }
